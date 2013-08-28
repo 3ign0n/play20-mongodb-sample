@@ -8,6 +8,6 @@ resolvers ++= Seq(
 )
 
 // Use the Play sbt plugin for Play projects
-addSbtPlugin("play" % "sbt-plugin" % "2.0")
+addSbtPlugin("play" % "sbt-plugin" % "2.1.3")
 
-addSbtPlugin("com.typesafe.startscript" % "xsbt-start-script-plugin" % "0.5.1")
+addSbtPlugin("com.typesafe.startscript" % "xsbt-start-script-plugin" % "0.5.3")
